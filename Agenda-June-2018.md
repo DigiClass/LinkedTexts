@@ -5,6 +5,7 @@ Dates: June 21 and 22
 
 ## Confirmed Participants
  * Bridget Almas (remote)
+ * Ryan Baumann
  * Christopher Blackwell
  * Hugh Cayless
  * Thibault Clérice
