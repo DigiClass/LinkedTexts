@@ -6,13 +6,14 @@ Dates: June 21 and 22
 ## Confirmed Participants
  * Bridget Almas (remote)
  * Ryan Baumann
- * Christopher Blackwell
+ * ~Christopher Blackwell~
  * Hugh Cayless
  * Thibault Clérice
  * Tom Elliott
  * Sam Huskey
  * Leonard Muellner
- * Eric Rebillard (remote)
+ * Luke Hollis (remote)
+ * ~Eric Rebillard~
  * Jonathan Robie
  * Matteo Romanello
  * James Tauber
