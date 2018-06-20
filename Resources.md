@@ -10,4 +10,5 @@
 ## Resources
 
 * [INTRO, an Intertextual Relationships Ontology for literary studies](https://github.com/BOberreither/INTRO)
+* [LAWD, an Ontology for Lainked Ancient World Data](https://github.com/lawdi/LAWD)
 * [What’s in a URI? Part I: The School of Salamanca, the Semantic Web and Scholarly Referencing (Andreas Wagner)](https://blog.salamanca.school/en/2016/11/15/whats-in-a-uri-part-1/)
