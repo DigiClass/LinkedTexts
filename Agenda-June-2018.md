@@ -3,6 +3,8 @@ Venue: 218 Perkins Library, Duke University
 Parking: 135 Science Drive (next to Bryan Center)
 Dates: June 21 and 22
 
+**Workshop notes**: [shared document](https://docs.google.com/document/d/11C5Nfx38Cg-MXB8Oda9cAMiaES02kmhXVo5hSOq2Ifs/edit?usp=sharing) 
+
 ## Confirmed Participants
  * Bridget Almas (remote)
  * Ryan Baumann
