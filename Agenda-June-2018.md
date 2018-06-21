@@ -31,7 +31,7 @@ Dates: June 21 and 22
  * Introduction and Background (Hugh Cayless)
  * DTS APIs and implementations (Thibault Clérice)
  * CTS Handles (Bridget Almas), [slides](https://docs.google.com/presentation/d/100SCupW0pHVCzCvKHTqQ0cVlqDRZr1UPpaJ3V4Oe0xw/edit#slide=id.p) 
- * Citation Modeling (Matteo Romanello)
+ * Citation Modeling (Matteo Romanello) [slides](https://docs.google.com/presentation/d/1zyROIQvZ1ywaokRT750zyL2pjBKoQ2DwssHVaDAlWPs/edit#slide=id.p1)
  * Discussion: Should we develop a centralized citation resolution system? How should we develop the DTS ecosystem? Should this system create Handles for the passages it resolves (technical feasibility, costs)? 
 
 ### 12:30–13:30: Lunch
