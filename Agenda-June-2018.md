@@ -8,6 +8,7 @@ Dates: June 21 and 22
 ## Confirmed Participants
  * Bridget Almas (remote)
  * Ryan Baumann
+ * James Tauber 
  * ~Christopher Blackwell~
  * Hugh Cayless
  * Thibault Clérice
@@ -20,7 +21,9 @@ Dates: June 21 and 22
  * Matteo Romanello
  * James Tauber
  * Zachary Fletcher 
- 
+ * Alison Babeu (remote)
+ * Hao Wu (remote)
+
 ## Thursday, June 21
 ### 9:00–12:30
  * Introduction and Background (Hugh Cayless)
