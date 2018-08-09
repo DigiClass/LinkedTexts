@@ -9,6 +9,9 @@ Dates: June 21 and 22
 
 ## Confirmed Participants
  * Bridget Almas (remote)
+ * Luke Hollis (remote)
+ * Alison Babeu (remote)
+ * Hao Wu (remote)
  * Ryan Baumann
  * James Tauber 
  * ~Christopher Blackwell~
@@ -17,13 +20,10 @@ Dates: June 21 and 22
  * Tom Elliott
  * Sam Huskey
  * Leonard Muellner
- * Luke Hollis (remote)
  * ~Eric Rebillard~
  * Jonathan Robie
  * Matteo Romanello
  * Zachary Fletcher 
- * Alison Babeu (remote)
- * Hao Wu (remote)
 
 ## Thursday, June 21
 ### 9:00–12:30
