@@ -21,7 +21,6 @@ Dates: June 21 and 22
  * ~Eric Rebillard~
  * Jonathan Robie
  * Matteo Romanello
- * James Tauber
  * Zachary Fletcher 
  * Alison Babeu (remote)
  * Hao Wu (remote)
