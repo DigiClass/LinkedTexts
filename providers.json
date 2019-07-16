@@ -20,7 +20,7 @@
         }
     },
     {
-        "endpoint": "http://betamasaheft.eu/api/dts",
+        "endpoint": "https://betamasaheft.eu/api/dts",
         "protocol": "dts",
         "name": "Beta maṣāḥǝft",
         "status": "experimental",
@@ -35,7 +35,7 @@
       "status": "experimental",
       "contact": {
         "email": "mailto:frank.grieshaber@zaw.uni-heidelberg.de",
-        "name": "Franz Grieshaber",
+        "name": "Frank Grieshaber",
       }
     }
 ]
