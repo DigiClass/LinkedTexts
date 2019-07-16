@@ -1,0 +1,37 @@
+[
+    {
+        "endpoint": "http://texts.alpheios.net/api/dts",
+        "protocol": "dts",
+        "label": "Alpheios Texts",
+        "contact": {
+          "email": "mailto:Bridget.Almas@tufts.edu",
+          "name": "Bridget Almas"
+        }
+    },
+    {
+        "endpoint": "http://dev.chartes.psl.eu/api/nautilus/dts",
+        "protocol": "dts",
+        "label": "École des Chartes Demo",
+        "contact": {
+          "email": "mailto:thibault.clerice@chartes.psl.eu",
+          "name": "Bridget Almas"
+        }
+    },
+    {
+        "endpoint": "http://betamasaheft.eu/api/dts",
+        "protocol": "dts",
+        "name": "Beta maṣāḥǝft",
+        "contact": {
+          "email": "mailto:pietro.liuzzo@uni-hamburg.de",
+          "name": "Pietro Liuzzo"
+        }
+    },
+    {
+      "endpoint": "https://edh-www.adw.uni-heidelberg.de/api/dts/",
+      "protocol": "dts",
+      "contact": {
+        "email": "mailto:frank.grieshaber@zaw.uni-heidelberg.de",
+        "name": "Franz Grieshaber",
+      }
+    }
+]
